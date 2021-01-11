@@ -12,7 +12,11 @@ CRUD feito utilizando o Framework Laravel
 <p></p>
 <p></p>
 
-<h5> Após instalar todos os programas você deverá abrir um Terminal de comando e entrar na pasta padrão de projetos do Wampp(htdocs) ou Xamp(www) e executar o comando "git clone https://github.com/CaiqueSallas/MontarPc.git"</h5>
+<h5> Após instalar todos os programas você deverá abrir um Terminal de comando e entrar na pasta padrão de projetos do Wampp(htdocs) ou Xamp(www) e executar os seguintes comandos</h5>
+<ul>
+    <li>"git clone https://github.com/CaiqueSallas/MontarPc.git"</li>
+    <li>"composer install"</li>
+</ul>
 <p> Agora com tudo já instalado você devera acessar no seu navegador a rota localhost/phpmyadmin/ e criar um banco de dados chamado laravel</p>
 <p> Após criar o banco você deverá voltar ao terminal de comando e digitar "php artisan serve" </p>
 <p> Agora você deve acessar a rota localhost:8000/pc e já pode ver o projeto
