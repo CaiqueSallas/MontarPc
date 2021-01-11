@@ -21,7 +21,8 @@ CRUD feito utilizando o Framework Laravel
 </ul>
 <p> Agora com tudo já instalado você devera acessar no seu navegador a rota localhost/phpmyadmin/ e criar um banco de dados chamado laravel</p>
 <p> Após criar o banco você deverá voltar ao terminal de comando e digitar "php artisan serve" </p>
-<p> Agora você deve acessar a rota localhost:8000/pc e já pode ver o projeto
+<p> Agora você deve acessar a rota localhost:8000/pc e já pode ver o projeto</p>
+<p>*você não conseguira inserir itens na tabela principal caso não crie pelo menos um item nas tabelas secundárias(o que pode ser feito automaticamente no passo a seguir)</p>
 
 <h2> criação de tabelas e Inclusão de itens automático no BD </h2>
 <p> Abra outro terminal de comando na mesma pasta do projeto e digite o comando "php artisan migrate"</p>
