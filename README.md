@@ -12,7 +12,7 @@ CRUD feito utilizando o Framework Laravel
 <p></p>
 <p></p>
 
-<h5> Após instalar todos os programas você deverá abrir um Terminal de comando e entrar na pasta padrão de projetos do Wampp(htdocs) ou Xamp(www) e executar os seguintes comandos</h5>
+<h5> Após instalar todos os programas você deverá abrir um Terminal de comando e entrar na pasta padrão de projetos do Xampp(htdocs) ou Wamp(www) e executar os seguintes comandos</h5>
 <ul>
     <li>"git clone https://github.com/CaiqueSallas/MontarPc.git"</li>
     <li>"composer install"</li>
