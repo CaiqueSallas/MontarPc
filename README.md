@@ -16,6 +16,8 @@ CRUD feito utilizando o Framework Laravel
 <ul>
     <li>"git clone https://github.com/CaiqueSallas/MontarPc.git"</li>
     <li>"composer install"</li>
+    <li>"copy .env.example .env"</li>
+    <li>"php artisan key:generate"</li>
 </ul>
 <p> Agora com tudo já instalado você devera acessar no seu navegador a rota localhost/phpmyadmin/ e criar um banco de dados chamado laravel</p>
 <p> Após criar o banco você deverá voltar ao terminal de comando e digitar "php artisan serve" </p>
